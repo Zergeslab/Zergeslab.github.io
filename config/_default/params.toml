@@ -55,7 +55,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "william.zerges@concordia.ca"
 phone = "514-848-2424 ext. 3416"
-address = "7141 Sherbrooke St. W., Concordia University, Montréal, QC Canada"
+address = "7141 Sherbrooke St. W., Concordia University, Montréal, QC Canada H4B 1R6"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "Office: SP 445.07, Lab: SP 420.01"

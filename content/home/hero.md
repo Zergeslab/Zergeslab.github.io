@@ -44,4 +44,4 @@ hero_media = "chlamydomonas.png"
 +++
 ## Welcome to the **Zerges lab**!
 
-Located in the Richard J. Renaud Science Complex of Concordia University's Loyola campus, our lab focuses on understanding **chloroplast translation and biogenesis** in the green alga *Chlamydomonas reinhardtii*.
+We are located in the Department of Biology at [Concordia University](https://www.concordia.ca/) in Montréal, Québec, Canada. Our lab explores **protein synthesis in the biogenesis of chloroplasts** using as a model organism the green alga *Chlamydomonas reinhardtii*.

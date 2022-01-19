@@ -8,7 +8,9 @@ title: Publications
 ---
 ## 2020-Present
 ---
-Dhaliwal, J., Panozzo, C., Bénard, L., & Zerges, W. (2020). Oxidized RNA Bodies compartmentalize translation quality control in *Saccharomyces cerevisiae*. Preprint.
+Sun, Y., Bakhtiari, S., Valente-Paterno, M., Wu, Y., Law, C., Dai, D., Dhaliwal, J., Huy Bui, K., & Zerges, W. (2021). [Chloroplast-localized translation for protein targeting in *Chlamydomonas reinhardtii*](https://www.biorxiv.org/content/10.1101/2021.12.27.474283v1). Preprint.
+
+Dhaliwal, J., Panozzo, C., Bénard, L., & Zerges, W. (2020). [Oxidized RNA Bodies compartmentalize translation quality control in *Saccharomyces cerevisiae*](https://www.biorxiv.org/content/10.1101/2020.08.05.232983v2). Preprint. 
 
 ---
 ## 2015-2019

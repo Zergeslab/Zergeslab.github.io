@@ -35,9 +35,7 @@ user_groups:
 - Visitors
 ---
 
-Dr. William Zerges is a Biology professor at Concordia University. 
-
-His research interests include the translational control of chloroplasts and photosynthesis.
+Dr. William Zerges (Principal Investigator)
 
 Postdoctoral training (PDF): University of Geneva 
 
@@ -45,4 +43,5 @@ Graduate training (MSc, PhD): Princeton University
 
 Undergraduate training (BSc): Cornell University
 
+He teaches [BIOL 364 (Cell Physiology) and BIOL 461 (Advanced Genetics)](https://www.concordia.ca/academics/undergraduate/calendar/current/sec31/31-030.html#courses).
 

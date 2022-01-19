@@ -90,26 +90,3 @@ Frederique Vigneault - MSc
 
 Shenwu Wang - MSc
 
----
-Undergraduate Students 
----
-Mehrnaz Jamaat - BSc
-
-Elias Elahie - BSc
-
-Krutika Patel - BSc
-
-Joseph Berkovic - BSc
-
-Kassem Moujaber - BSc
-
-Shane Baistrocchi - BSc
-
-Simon Arragain - BSc
-
-
-Yanxia Wu
-
-
-
-
