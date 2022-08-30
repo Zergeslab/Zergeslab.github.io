@@ -24,15 +24,10 @@ Melanie Alfonso
 MSc Candidate
 ![.](melanie.png)
 
-Shiva Bakhtiari
+Brandon Jaunky
 ---
-PhD Candidate
-![.](shiva.png)
-
-James Dhaliwal
----
-PhD Candidate
-![.](james.png)
+MSc Candidate
+![.](brandon.jpg)
 
 Kristina Santilli
 ---
@@ -40,10 +35,20 @@ MSc Candidate
 ![.](kristina2.png)
 
 
-Srikanth Tirumani
+Srikanth Tirumani, PhD
 ---
-Postdoctoral Candidate
-![.](srikanth.jpg)
+Postdoctoral Fellow
+![.](srikanth2.jpg)
+
+Shiva Bakhtiari, PhD
+---
+Research Associate
+![.](shiva.png)
+
+James Dhaliwal, PhD
+---
+Research Associate
+![.](james.png)
 
 ---
 ## Previous Lab Members
@@ -60,6 +65,7 @@ Nadia Ait Ali - PDF
 ---
 Graduate Students 
 ---
+
 Elise Morel - PhD
 
 Yu Zhan - PhD

@@ -35,13 +35,14 @@ user_groups:
 - Visitors
 ---
 
-Dr. William Zerges (Principal Investigator)
+**Dr. William Zerges** 
 
-Postdoctoral training (PDF): University of Geneva 
+Cornell University, BSc.
 
-Graduate training (MSc, PhD): Princeton University
+Princeton University, MSc, PhD.
 
-Undergraduate training (BSc): Cornell University
+University of Geneva and Duke University, Postdoctoral work.
 
-He teaches [BIOL 364 (Cell Physiology) and BIOL 461 (Advanced Genetics)](https://www.concordia.ca/academics/undergraduate/calendar/current/sec31/31-030.html#courses).
+___________
+Courses taught: [BIOL 364 (Cell Physiology) and BIOL 461 (Advanced Genetics)](https://www.concordia.ca/academics/undergraduate/calendar/current/sec31/31-030.html#courses).
 
