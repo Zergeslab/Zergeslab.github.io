@@ -1,10 +1,10 @@
 {
     "icons": [{
-      "src": "img/y1_live_chl.jpg",
+      "src": "img/y1_live_chl.png",
       "sizes": "32x32",
       "type": "image/png"
     },{
-        "src": "img/y1_live_chl.jpg",
+        "src": "img/y1_live_chl.png",
         "sizes": "192x192",
         "type": "image/png"
     }],
