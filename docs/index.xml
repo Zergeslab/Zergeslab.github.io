@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zerges Lab</title>
-    <link>https://examplesite.org/</link>
+    <link>https://zergeslab.github.io/</link>
     <description>Recent content on Zerges Lab</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zergeslab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://examplesite.org/post/</link>
+      <link>https://zergeslab.github.io/post/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://examplesite.org/post/</guid>
+      <guid>https://zergeslab.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://examplesite.org/courses/</link>
+      <link>https://zergeslab.github.io/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/courses/</guid>
+      <guid>https://zergeslab.github.io/courses/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;biol-364-cell-physiology&#34;&gt;BIOL 364 (Cell Physiology)&lt;/h2&gt;
 &lt;hr&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Current Projects</title>
-      <link>https://examplesite.org/project/</link>
+      <link>https://zergeslab.github.io/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/</guid>
+      <guid>https://zergeslab.github.io/project/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Organelles carry out specific processes within eukaryotic cells. These processes include the organelle’s specific intracellular functions and the building (or “biogenesis”) of the organelle. For example, chloroplasts are the organelle of plant and algal cells that carry out photosynthesis; the conversion of light energy to chemical energy. While much is known about photosynthesis, less is known about the biogenesis of chloroplasts. My laboratory is revealing complexity of the internal organization of biogenic processes in the chloroplast of the unicellular alga, &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;. This green alga is a long-standing model organism for chloroplast biology.&lt;/p&gt;
 &lt;p&gt;There are currently three projects in my laboratory:&lt;/p&gt;
 &lt;hr&gt;
@@ -66,10 +66,10 @@ We identified a compartment in the chloroplast of &lt;em&gt;Chlamydomonas&lt;/em
     
     <item>
       <title>Lab Members</title>
-      <link>https://examplesite.org/members/</link>
+      <link>https://zergeslab.github.io/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/members/</guid>
+      <guid>https://zergeslab.github.io/members/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;dr-william-zerges-phd&#34;&gt;Dr. William Zerges, PhD&lt;/h2&gt;
 &lt;p&gt;Principal Investigator
@@ -124,10 +124,10 @@ We identified a compartment in the chloroplast of &lt;em&gt;Chlamydomonas&lt;/em
     
     <item>
       <title>Lab Photos</title>
-      <link>https://examplesite.org/photos/</link>
+      <link>https://zergeslab.github.io/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/photos/</guid>
+      <guid>https://zergeslab.github.io/photos/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;office-time&#34;&gt;Office time&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;office.jpg&#34; alt=&#34;.&#34;&gt;&lt;/p&gt;
@@ -136,10 +136,10 @@ We identified a compartment in the chloroplast of &lt;em&gt;Chlamydomonas&lt;/em
     
     <item>
       <title>Publications</title>
-      <link>https://examplesite.org/publication/</link>
+      <link>https://zergeslab.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/</guid>
+      <guid>https://zergeslab.github.io/publication/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;2020-present&#34;&gt;2020-Present&lt;/h2&gt;
 &lt;hr&gt;

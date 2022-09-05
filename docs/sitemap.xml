@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.org/members/people/</loc>
+    <loc>https://zergeslab.github.io/members/people/</loc>
   </url><url>
-    <loc>https://examplesite.org/categories/</loc>
+    <loc>https://zergeslab.github.io/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://zergeslab.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/markdown/</loc>
+    <loc>https://zergeslab.github.io/tags/markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/plot/</loc>
+    <loc>https://zergeslab.github.io/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/</loc>
+    <loc>https://zergeslab.github.io/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/categories/r/</loc>
+    <loc>https://zergeslab.github.io/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/regression/</loc>
+    <loc>https://zergeslab.github.io/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/</loc>
+    <loc>https://zergeslab.github.io/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/</loc>
+    <loc>https://zergeslab.github.io/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/admin/</loc>
+    <loc>https://zergeslab.github.io/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/authors/</loc>
+    <loc>https://zergeslab.github.io/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/jupyter/</loc>
+    <loc>https://zergeslab.github.io/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/tags/academia/</loc>
+    <loc>https://zergeslab.github.io/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/getting-started/</loc>
+    <loc>https://zergeslab.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/post/snail/</loc>
+    <loc>https://zergeslab.github.io/post/snail/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.org/courses/</loc>
+    <loc>https://zergeslab.github.io/courses/</loc>
   </url><url>
-    <loc>https://examplesite.org/project/</loc>
+    <loc>https://zergeslab.github.io/project/</loc>
   </url><url>
-    <loc>https://examplesite.org/members/</loc>
+    <loc>https://zergeslab.github.io/members/</loc>
   </url><url>
-    <loc>https://examplesite.org/photos/</loc>
+    <loc>https://zergeslab.github.io/photos/</loc>
   </url><url>
-    <loc>https://examplesite.org/publication_types/</loc>
+    <loc>https://zergeslab.github.io/publication_types/</loc>
   </url><url>
-    <loc>https://examplesite.org/publication/</loc>
+    <loc>https://zergeslab.github.io/publication/</loc>
   </url>
 </urlset>
