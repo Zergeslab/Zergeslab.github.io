@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://examplesite.org/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.org/authors/admin/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Dr. William Zerges&lt;/strong&gt;&lt;/p&gt;
@@ -25,15 +25,6 @@
 &lt;hr&gt;
 &lt;p&gt;Courses taught: &lt;a href=&#34;https://www.concordia.ca/academics/undergraduate/calendar/current/sec31/31-030.html#courses&#34;&gt;BIOL 364 (Cell Physiology) and BIOL 461 (Advanced Genetics)&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>https://examplesite.org/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/authors/robert-ford/</guid>
-      <description></description>
     </item>
     
   </channel>

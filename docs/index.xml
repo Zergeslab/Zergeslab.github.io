@@ -7,19 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
 	    <atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://examplesite.org/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/talk/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Posts</title>
@@ -28,45 +19,6 @@
       
       <guid>https://examplesite.org/post/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://examplesite.org/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/publication/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;2020-present&#34;&gt;2020-Present&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;Sun, Y., Bakhtiari, S., Valente-Paterno, M., Wu, Y., Law, C., Dai, D., Dhaliwal, J., Huy Bui, K., &amp;amp; Zerges, W. (2021). &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.12.27.474283v1&#34;&gt;Chloroplast-localized translation for protein targeting in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;&lt;/a&gt;. Preprint.&lt;/p&gt;
-&lt;p&gt;Dhaliwal, J., Panozzo, C., Bénard, L., &amp;amp; Zerges, W. (2020). &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.05.232983v2&#34;&gt;Oxidized RNA Bodies compartmentalize translation quality control in &lt;em&gt;Saccharomyces cerevisiae&lt;/em&gt;&lt;/a&gt;. Preprint.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;2015-2019&#34;&gt;2015-2019&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;Sun, Y., Valente-Paterno, M., Bakhtiari, S., Law, C., Zhan, Y., &amp;amp; Zerges, W. (2019). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6925001/&#34;&gt;Photosystem Biogenesis is Localized to the Translation Zone in the Chloroplast of &lt;em&gt;Chlamydomonas&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;The Plant Cell, 31&lt;/em&gt;(12), 3057-3072.&lt;/p&gt;
-&lt;p&gt;Zhan, Y., Marchand, C.H.,&amp;hellip;, Zerges, W. (2018). &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185039&#34;&gt;Pyrenoid functions revealed by proteomics in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;PLoS ONE, 13&lt;/em&gt;(2):e0185039.&lt;/p&gt;
-&lt;p&gt;Zerges, W. (2016). &lt;a href=&#34;https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006173&#34;&gt;Gene Regulation in Developing Chloroplasts Disentangled.&lt;/a&gt; &lt;em&gt;PLoS Genetics, 12&lt;/em&gt;(7).&lt;/p&gt;
-&lt;p&gt;Rahim, M.M.A., Vigneault, F., &amp;amp; Zerges, W. (2016). &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpls.2016.00828/full&#34;&gt;The RNA Structure of &lt;em&gt;cis&lt;/em&gt;-acting Translational Elements of the Chloroplast psbC mRNA in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Frontiers in Plant Science, 828&lt;/em&gt;(7), 1-13.&lt;/p&gt;
-&lt;p&gt;Zhan, Y., Dhaliwal, J.S., Adjibade, P., Uniacke, J., Mazroui, R., &amp;amp; Zerges, W. (2015). &lt;a href=&#34;https://journals.biologists.com/jcs/article/128/22/4210/55334/Localized-control-of-oxidized-RNA&#34;&gt;Localized control of oxidized RNA.&lt;/a&gt; &lt;em&gt;Journal of Cell Science&lt;/em&gt;, 128, 4210-4219.&lt;/p&gt;
-&lt;p&gt;Sun, Y., &amp;amp; Zerges, W. (2015). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0005272815000894&#34;&gt;Translational regulation in chloroplasts for development and homeostasis.&lt;/a&gt; &lt;em&gt;Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1847&lt;/em&gt;(9), 809-820.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;2010-2014&#34;&gt;2010-2014&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;Nickelsen, J., &amp;amp; Zerges, W. (2013). &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpls.2013.00458/full&#34;&gt;Thylakoid biogenesis has joined the new era of bacterial cell biology.&lt;/a&gt; &lt;em&gt;Frontiers in Plant Science&lt;/em&gt;, 4:458.&lt;/p&gt;
-&lt;p&gt;Simon, D.F., Domingos, R.F., Hauser C., Hutchins, C.M., Zerges, W., &amp;amp; Wilkinson, K.J. (2013). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754720/&#34;&gt;RNA-Seq analysis of the effects of metal nanoparticle exposure on the transcriptome of &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Applied Environmental Microbiology, 79&lt;/em&gt;(16), 4774-85.&lt;/p&gt;
-&lt;p&gt;Bohne, A.-V., Schwarz, C., Schottkowski, M., Lidschreiber, M., Piotrowski, M., Zerges, W., &amp;amp; Nickelsen, J. (2013). &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001482&#34;&gt;Reciprocal regulation of protein synthesis and carbon metabolism for thylakoid membrane biogenesis.&lt;/a&gt; &lt;em&gt;PLoS Biology, 11&lt;/em&gt;(2), 1-18. (Highlighted in Nature Chemical Biology&amp;rsquo;s News &amp;amp; Views April 2013)&lt;/p&gt;
-&lt;p&gt;Weis, B.L., Schleiff, E., &amp;amp; Zerges, W. (2013). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S016748891200095X?via%3Dihub&#34;&gt;Protein targeting to subcellular organelles via mRNA localization.&lt;/a&gt; &lt;em&gt;Biochimica et Biophysica Acta- Molecular Cell Research&lt;/em&gt;, 1833, 260-273.&lt;/p&gt;
-&lt;p&gt;Schottkowski, M., Peters, M., Zhan, Y., Rifai, O., Zhang, Y., &amp;amp; Zerges, W. (2012). &lt;a href=&#34;https://www.pnas.org/content/109/47/19286&#34;&gt;Biogenic membranes of the chloroplast in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences of the U.S.A., 109&lt;/em&gt;(47), 19286-19291.&lt;/p&gt;
-&lt;p&gt;Hutchins, C.M., Simon, D.F., Zerges, W., &amp;amp; Wilkinson, K.J. (2010). &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0166445X10002651?via%3Dihub&#34;&gt;Transcriptomic signatures in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt; as Cd biomarkers in metal mixtures.&lt;/a&gt; &lt;em&gt;Aquatic Toxicology, 100&lt;/em&gt;(1):120-127.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;2005-2009&#34;&gt;2005-2009&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;Uniacke, J., &amp;amp; Zerges, W. (2009). &lt;a href=&#34;https://www.pnas.org/content/106/5/1439&#34;&gt;Chloroplast protein targeting involves localized translation in &lt;em&gt;Chlamydomonas&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences U.S.A, 106&lt;/em&gt;(5), 1349-44.&lt;/p&gt;
-&lt;p&gt;Uniacke, J., &amp;amp; Zerges, W. (2008). &lt;a href=&#34;https://rupress.org/jcb/article/182/4/641/45395/Stress-induces-the-assembly-of-RNA-granules-in-the&#34;&gt;Stress induces the assembly of RNA granules in the chloroplast of &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Journal of Cell Biology, 182&lt;/em&gt;(4), 641‐6.&lt;/p&gt;
-&lt;p&gt;Simon, D.F., Descombes, P., Zerges, W., &amp;amp; Wilkinson, K.J. (2008). &lt;a href=&#34;https://setac.onlinelibrary.wiley.com/doi/abs/10.1897/07-649.1&#34;&gt;Global expression profiling of &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt; exposed to trace levels of free cadmium.&lt;/a&gt; &lt;em&gt;Environmental Toxicology and Chemistry, 27&lt;/em&gt;(8), 1668‐75.&lt;/p&gt;
-&lt;p&gt;Uniacke, J., &amp;amp; Zerges, W. (2007). &lt;a href=&#34;https://academic.oup.com/plcell/article/19/11/3640/6100083&#34;&gt;Photosystem II Assembly and Repair Are Differentially Localized in &lt;em&gt;Chlamydomonas&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;The Plant Cell, 19&lt;/em&gt;(11), 3640‐54.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -179,6 +131,45 @@ We identified a compartment in the chloroplast of &lt;em&gt;Chlamydomonas&lt;/em
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;office-time&#34;&gt;Office time&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;office.jpg&#34; alt=&#34;.&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://examplesite.org/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;2020-present&#34;&gt;2020-Present&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Sun, Y., Bakhtiari, S., Valente-Paterno, M., Wu, Y., Law, C., Dai, D., Dhaliwal, J., Huy Bui, K., &amp;amp; Zerges, W. (2021). &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.12.27.474283v1&#34;&gt;Chloroplast-localized translation for protein targeting in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;&lt;/a&gt;. Preprint.&lt;/p&gt;
+&lt;p&gt;Dhaliwal, J., Panozzo, C., Bénard, L., &amp;amp; Zerges, W. (2020). &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.05.232983v2&#34;&gt;Oxidized RNA Bodies compartmentalize translation quality control in &lt;em&gt;Saccharomyces cerevisiae&lt;/em&gt;&lt;/a&gt;. Preprint.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2015-2019&#34;&gt;2015-2019&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Sun, Y., Valente-Paterno, M., Bakhtiari, S., Law, C., Zhan, Y., &amp;amp; Zerges, W. (2019). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6925001/&#34;&gt;Photosystem Biogenesis is Localized to the Translation Zone in the Chloroplast of &lt;em&gt;Chlamydomonas&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;The Plant Cell, 31&lt;/em&gt;(12), 3057-3072.&lt;/p&gt;
+&lt;p&gt;Zhan, Y., Marchand, C.H.,&amp;hellip;, Zerges, W. (2018). &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185039&#34;&gt;Pyrenoid functions revealed by proteomics in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;PLoS ONE, 13&lt;/em&gt;(2):e0185039.&lt;/p&gt;
+&lt;p&gt;Zerges, W. (2016). &lt;a href=&#34;https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006173&#34;&gt;Gene Regulation in Developing Chloroplasts Disentangled.&lt;/a&gt; &lt;em&gt;PLoS Genetics, 12&lt;/em&gt;(7).&lt;/p&gt;
+&lt;p&gt;Rahim, M.M.A., Vigneault, F., &amp;amp; Zerges, W. (2016). &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpls.2016.00828/full&#34;&gt;The RNA Structure of &lt;em&gt;cis&lt;/em&gt;-acting Translational Elements of the Chloroplast psbC mRNA in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Frontiers in Plant Science, 828&lt;/em&gt;(7), 1-13.&lt;/p&gt;
+&lt;p&gt;Zhan, Y., Dhaliwal, J.S., Adjibade, P., Uniacke, J., Mazroui, R., &amp;amp; Zerges, W. (2015). &lt;a href=&#34;https://journals.biologists.com/jcs/article/128/22/4210/55334/Localized-control-of-oxidized-RNA&#34;&gt;Localized control of oxidized RNA.&lt;/a&gt; &lt;em&gt;Journal of Cell Science&lt;/em&gt;, 128, 4210-4219.&lt;/p&gt;
+&lt;p&gt;Sun, Y., &amp;amp; Zerges, W. (2015). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0005272815000894&#34;&gt;Translational regulation in chloroplasts for development and homeostasis.&lt;/a&gt; &lt;em&gt;Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1847&lt;/em&gt;(9), 809-820.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2010-2014&#34;&gt;2010-2014&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Nickelsen, J., &amp;amp; Zerges, W. (2013). &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpls.2013.00458/full&#34;&gt;Thylakoid biogenesis has joined the new era of bacterial cell biology.&lt;/a&gt; &lt;em&gt;Frontiers in Plant Science&lt;/em&gt;, 4:458.&lt;/p&gt;
+&lt;p&gt;Simon, D.F., Domingos, R.F., Hauser C., Hutchins, C.M., Zerges, W., &amp;amp; Wilkinson, K.J. (2013). &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754720/&#34;&gt;RNA-Seq analysis of the effects of metal nanoparticle exposure on the transcriptome of &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Applied Environmental Microbiology, 79&lt;/em&gt;(16), 4774-85.&lt;/p&gt;
+&lt;p&gt;Bohne, A.-V., Schwarz, C., Schottkowski, M., Lidschreiber, M., Piotrowski, M., Zerges, W., &amp;amp; Nickelsen, J. (2013). &lt;a href=&#34;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001482&#34;&gt;Reciprocal regulation of protein synthesis and carbon metabolism for thylakoid membrane biogenesis.&lt;/a&gt; &lt;em&gt;PLoS Biology, 11&lt;/em&gt;(2), 1-18. (Highlighted in Nature Chemical Biology&amp;rsquo;s News &amp;amp; Views April 2013)&lt;/p&gt;
+&lt;p&gt;Weis, B.L., Schleiff, E., &amp;amp; Zerges, W. (2013). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S016748891200095X?via%3Dihub&#34;&gt;Protein targeting to subcellular organelles via mRNA localization.&lt;/a&gt; &lt;em&gt;Biochimica et Biophysica Acta- Molecular Cell Research&lt;/em&gt;, 1833, 260-273.&lt;/p&gt;
+&lt;p&gt;Schottkowski, M., Peters, M., Zhan, Y., Rifai, O., Zhang, Y., &amp;amp; Zerges, W. (2012). &lt;a href=&#34;https://www.pnas.org/content/109/47/19286&#34;&gt;Biogenic membranes of the chloroplast in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences of the U.S.A., 109&lt;/em&gt;(47), 19286-19291.&lt;/p&gt;
+&lt;p&gt;Hutchins, C.M., Simon, D.F., Zerges, W., &amp;amp; Wilkinson, K.J. (2010). &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0166445X10002651?via%3Dihub&#34;&gt;Transcriptomic signatures in &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt; as Cd biomarkers in metal mixtures.&lt;/a&gt; &lt;em&gt;Aquatic Toxicology, 100&lt;/em&gt;(1):120-127.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2005-2009&#34;&gt;2005-2009&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Uniacke, J., &amp;amp; Zerges, W. (2009). &lt;a href=&#34;https://www.pnas.org/content/106/5/1439&#34;&gt;Chloroplast protein targeting involves localized translation in &lt;em&gt;Chlamydomonas&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences U.S.A, 106&lt;/em&gt;(5), 1349-44.&lt;/p&gt;
+&lt;p&gt;Uniacke, J., &amp;amp; Zerges, W. (2008). &lt;a href=&#34;https://rupress.org/jcb/article/182/4/641/45395/Stress-induces-the-assembly-of-RNA-granules-in-the&#34;&gt;Stress induces the assembly of RNA granules in the chloroplast of &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;Journal of Cell Biology, 182&lt;/em&gt;(4), 641‐6.&lt;/p&gt;
+&lt;p&gt;Simon, D.F., Descombes, P., Zerges, W., &amp;amp; Wilkinson, K.J. (2008). &lt;a href=&#34;https://setac.onlinelibrary.wiley.com/doi/abs/10.1897/07-649.1&#34;&gt;Global expression profiling of &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt; exposed to trace levels of free cadmium.&lt;/a&gt; &lt;em&gt;Environmental Toxicology and Chemistry, 27&lt;/em&gt;(8), 1668‐75.&lt;/p&gt;
+&lt;p&gt;Uniacke, J., &amp;amp; Zerges, W. (2007). &lt;a href=&#34;https://academic.oup.com/plcell/article/19/11/3640/6100083&#34;&gt;Photosystem II Assembly and Repair Are Differentially Localized in &lt;em&gt;Chlamydomonas&lt;/em&gt;.&lt;/a&gt; &lt;em&gt;The Plant Cell, 19&lt;/em&gt;(11), 3640‐54.&lt;/p&gt;
 </description>
     </item>
     
