@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Zerges Lab</title>
-    <link>https://examplesite.org/publication/</link>
+    <link>https://zergeslab.github.io/publication/</link>
     <description>Recent content in Publications on Zerges Lab</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     
-	    <atom:link href="https://examplesite.org/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zergeslab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

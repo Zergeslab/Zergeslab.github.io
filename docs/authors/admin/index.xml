@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zerges Lab</title>
-    <link>https://examplesite.org/authors/admin/</link>
+    <link>https://zergeslab.github.io/authors/admin/</link>
     <description>Recent content on Zerges Lab</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zergeslab.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with academia</title>
-      <link>https://examplesite.org/post/jupyter/</link>
+      <link>https://zergeslab.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/post/jupyter/</guid>
+      <guid>https://zergeslab.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
 Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./academia_0_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
@@ -52,10 +52,10 @@ rm Untitled.md
     
     <item>
       <title>academia: the website builder for Hugo</title>
-      <link>https://examplesite.org/post/getting-started/</link>
+      <link>https://zergeslab.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/post/getting-started/</guid>
+      <guid>https://zergeslab.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academia-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
@@ -124,8 +124,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Default&#34; href=&#34;https://examplesite.org/img/theme-default.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-default.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Default&#34; href=&#34;https://zergeslab.github.io/img/theme-default.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-default.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -135,8 +135,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Ocean&#34; href=&#34;https://examplesite.org/img/theme-ocean.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-ocean.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Ocean&#34; href=&#34;https://zergeslab.github.io/img/theme-ocean.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-ocean.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -146,8 +146,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Forest&#34; href=&#34;https://examplesite.org/img/theme-forest.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-forest.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Forest&#34; href=&#34;https://zergeslab.github.io/img/theme-forest.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-forest.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -157,8 +157,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Dark&#34; href=&#34;https://examplesite.org/img/theme-dark.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-dark.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Dark&#34; href=&#34;https://zergeslab.github.io/img/theme-dark.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-dark.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -168,8 +168,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Apogee&#34; href=&#34;https://examplesite.org/img/theme-apogee.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-apogee.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Apogee&#34; href=&#34;https://zergeslab.github.io/img/theme-apogee.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-apogee.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -179,8 +179,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;1950s&#34; href=&#34;https://examplesite.org/img/theme-1950s.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-1950s.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;1950s&#34; href=&#34;https://zergeslab.github.io/img/theme-1950s.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-1950s.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -190,8 +190,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://examplesite.org/img/theme-coffee-playfair.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://zergeslab.github.io/img/theme-coffee-playfair.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -201,8 +201,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Strawberry&#34; href=&#34;https://examplesite.org/img/theme-strawberry.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-strawberry.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Strawberry&#34; href=&#34;https://zergeslab.github.io/img/theme-strawberry.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-strawberry.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -233,10 +233,10 @@ rm Untitled.md
     
     <item>
       <title>Study of Snail Behavior</title>
-      <link>https://examplesite.org/post/snail/</link>
+      <link>https://zergeslab.github.io/post/snail/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/post/snail/</guid>
+      <guid>https://zergeslab.github.io/post/snail/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academia-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
@@ -305,8 +305,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Default&#34; href=&#34;https://examplesite.org/img/theme-default.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-default.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Default&#34; href=&#34;https://zergeslab.github.io/img/theme-default.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-default.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -316,8 +316,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Ocean&#34; href=&#34;https://examplesite.org/img/theme-ocean.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-ocean.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Ocean&#34; href=&#34;https://zergeslab.github.io/img/theme-ocean.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-ocean.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -327,8 +327,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Forest&#34; href=&#34;https://examplesite.org/img/theme-forest.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-forest.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Forest&#34; href=&#34;https://zergeslab.github.io/img/theme-forest.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-forest.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -338,8 +338,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Dark&#34; href=&#34;https://examplesite.org/img/theme-dark.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-dark.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Dark&#34; href=&#34;https://zergeslab.github.io/img/theme-dark.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-dark.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -349,8 +349,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Apogee&#34; href=&#34;https://examplesite.org/img/theme-apogee.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-apogee.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Apogee&#34; href=&#34;https://zergeslab.github.io/img/theme-apogee.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-apogee.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -360,8 +360,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;1950s&#34; href=&#34;https://examplesite.org/img/theme-1950s.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-1950s.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;1950s&#34; href=&#34;https://zergeslab.github.io/img/theme-1950s.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-1950s.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -371,8 +371,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://examplesite.org/img/theme-coffee-playfair.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://zergeslab.github.io/img/theme-coffee-playfair.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
@@ -382,8 +382,8 @@ rm Untitled.md
       
     
   
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Strawberry&#34; href=&#34;https://examplesite.org/img/theme-strawberry.png&#34;&gt;
-    &lt;img src=&#34;https://examplesite.org/img/theme-strawberry.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; data-caption=&#34;Strawberry&#34; href=&#34;https://zergeslab.github.io/img/theme-strawberry.png&#34;&gt;
+    &lt;img src=&#34;https://zergeslab.github.io/img/theme-strawberry.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
