@@ -1,8 +1,9 @@
 title: Zerges Lab
-baseURL: https://examplesite.org
+baseURL: https://zergeslab.github.io/
 copyright: Copyright &copy; {year}
 googleAnalytics: ''
 disqusShortname: ''
+favicon: favicon.ico
 theme: academia-hugo
 enableGitInfo: no
 defaultContentLanguage: en
